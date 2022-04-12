@@ -23,7 +23,7 @@ Browse https://localhost or http://localhost
 ## Docker Compose
 Net5-GraphQL Api is very easy to install and deploy with docker-compose.
 It easily runs docker-compose database and application together.
-By default, the Docker will expose port 8000 and 8001, so change this within the
+By default, the Docker will expose port 8000 and 8001, so change this within the 
 docker-compose.yml if necessary. When ready, simply use the docker-compose.yml to
 deploy the app.
 ```sh
